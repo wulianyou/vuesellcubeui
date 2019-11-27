@@ -1,0 +1,26 @@
+body,html
+  line-height 1
+  font-weight 200
+  font-family '	QisiQisi-细黑', 'PingFang SC', 'STHeitiSC-Light', 'Helvetica-Light'
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-device-pixel-ratio: 1.5)
+  .border-1px
+    &::after
+      -webkit-transform scaleY(0.7)
+      transform scaleY(0.7)
+@media (-webkit-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2)
+  .border-1px
+    &::after
+      -webkit-transform scaleY(0.5)
+      transform scaleY(0.5)
+.clear-fix
+  display: inline-block
+  &:after
+    display block
+    content "."
+    height 0
+    line-height 0
+    clear both
+    visibility hidden
+html, body
+  height 100%
+  overflow hidden
