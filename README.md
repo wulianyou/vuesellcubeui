@@ -25,6 +25,11 @@ npm run test
 ```
 npm run lint
 ```
+## 项目说明 ##
+- 此项目是仿@ustbhuangyi黄老师的付费视频做的。（可在站内直接搜索：ustbhuangyi）
+- 项目中所使用手工图片均为个人原创。（图片只作为个人爱好，期待同爱好者一起交流）
+- vue萌新，期待各位大神拍砖赐教。
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
