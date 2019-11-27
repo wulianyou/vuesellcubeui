@@ -1,7 +1,5 @@
-# vuesellcube
 Vue.js2.6+cube-ui仿饿了么App
 =======
-# vue-sell-cube
 
 ## Project setup
 ```
