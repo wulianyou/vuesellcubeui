@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuesellcube
 Vue.js2.6+cube-ui仿饿了么App
 =======
@@ -31,4 +30,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> init
+
